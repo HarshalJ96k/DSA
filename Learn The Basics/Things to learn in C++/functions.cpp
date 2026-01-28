@@ -6,7 +6,7 @@ using namespace std;
 {
     num +=10;
     cout<< "In the Pass By Value function:"<<num<<"\n";
-    return 0;
+    return 0;                                 `````````
 }
 //pass by reference
   int passByReference(int &num)
