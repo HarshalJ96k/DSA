@@ -25,7 +25,7 @@ void pattern(int n)
         cout<<endl;
     }
 
-    space=8;
+    space=2n-2;
     for (int i=0;i<n;i++)
     {
        
